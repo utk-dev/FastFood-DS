@@ -1,0 +1,5 @@
+fftest.sh
+result
+.vscode
+test.cpp
+examples/*/output
