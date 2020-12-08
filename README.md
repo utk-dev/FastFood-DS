@@ -6,7 +6,7 @@ Some of these data structures wrap around standard library structures to deliber
 Some use cases:
 
 1. A teacher wants to give a demo to his/her class on _insertion in the middle of a Linked List_ without using any built-in functions.
-2. An student wants to solve interview questions that often restrict certain functionality on a data structure e.g. the size of stack is not known or the linked list is singly linked.
+2. A student wants to solve interview questions that often restrict certain functionality on a data structure e.g. the size of stack is not known or the linked list is singly linked.
 
 
 Note: This project is still under development.
